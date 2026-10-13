@@ -103,7 +103,7 @@ console.log(typeof car); //NOTE skip this if you are new to object.
 
 //TODO remember  BigInt + Symbol (going to cover in later section indepth with useCase);
 
-//NOTE TYPE CONVERSION(explicit) + TYPE COERSION(implicit);
+//NOTE TYPE CONVERSION(explicit) + TYPE COERCION(implicit);
 
 //TODo Remember => NaN , 'abc' => NaN  '1' => it going to convert into the number.
 
@@ -131,11 +131,4 @@ console.log(Boolean(-4)); //true
 console.log(String(2));
 console.log(String(false));
 
-
-//NOTE OPERATORS :  
-
-// 5 + 5 => 2 operands  + operator
-
-//NOTE airthmatic operator 
-// + , - , * , /  , ** , % 
 
