@@ -68,3 +68,8 @@ console.log(++b + --b);
 //NOTE  ternary operator ? :
 
 true ? console.log('value is true') : console.log('value is false'); //react
+
+
+//NOTE  let var const difference ;
+//NOTE null and undefined ;
+//NOTE   type-conversion and coersion;
