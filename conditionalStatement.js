@@ -85,12 +85,15 @@ let isPaid = true;
 
 course === 'mern'
   ? isPaid
-    ? console.log('course is paid , i am not joining')
+    ? (console.log('course is paid , i am not joining'), console.log('hello'))
     : console.log('i will join ')
   : console.log('mern course is not available');
 // isTrue ? value dfj ? value2
 
-if(false) {
-    console.log('hello')
-     console.log('hi')
-    }
+if (false) {
+  console.log('hello');
+  console.log('hi');
+}
+
+// 46(tricky questions)
+//  + 20   200+
