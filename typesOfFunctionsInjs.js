@@ -45,7 +45,7 @@ console.log(sumFour(1, 2));
 //functions
 //scope
 //array and object
-//spread oeprator / desturcutring
+//spread operator / desturcutring
 //array and object methods + string
 //javascript internals (call stack , call heap , primitives , non primivites , event loop , callback queue , memory allocation )
 
@@ -119,13 +119,13 @@ function calculate(callback) {
 
 calculate((a, b) => a * b);
 
+//IIFE
 (function () {
   console.log('database connected');
   console.log('cloudinary instance created');
 })();
 
 // testnew(()=>{
-
-// })
+// });
 
 //IIFE (immediately invoked function expression) ;
