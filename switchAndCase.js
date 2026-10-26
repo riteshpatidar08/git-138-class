@@ -83,3 +83,13 @@ const firstName = 'ritesh';
 const email = 'ritesh@gmail.com';
 console.log('My name is' + ' ' + firstName);
 console.log(`My name is ${firstName} and my email is ${email}`);
+
+
+// overview  scope / functions / loops ;
+
+//NOTE difference between let , const , var
+//NOTE undefined vs null 
+//NOTE type conversion vs type coercion with some questions
+//NOTE truthy and falsy values 
+//NOTE pyramid pattern , prime number 
+//NOTE 0 and -0 compare kare toh true (Coercion not included);
